@@ -20,3 +20,7 @@ function calcularPercentuais(faturamento) {
 
 // Chamando a função
 calcularPercentuais(faturamentoPorEstado);
+
+
+
+// PARA RODAR O CODIGO NO TERMINAL: node Questao4.js
